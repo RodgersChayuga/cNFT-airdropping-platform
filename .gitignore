@@ -8,6 +8,9 @@
 # testing
 /coverage
 
+# react
+yarn.lock
+
 # next.js
 /.next/
 /.swc/
